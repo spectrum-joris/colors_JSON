@@ -1,0 +1,16 @@
+{
+  "name": "colors_json",
+  "version": "1.0.0",
+  "description": "- npm init -y - npm install express - voeg type: module toe aan package.json - voeg start: node server.js toe aan package.json - npm start om het project op te starten",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}

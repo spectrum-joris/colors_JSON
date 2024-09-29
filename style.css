@@ -1,0 +1,11 @@
+#color-container {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .color-block {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+  }
+  
